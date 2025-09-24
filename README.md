@@ -1,6 +1,5 @@
 > **⚠️ Under development**<br>
 > App is on the early stage of development. At the moment preview version with base features is available.<br>
- (https://github.com/alanssv/savnote/discussions/categories/announcements)
 
 
 # SavNote – private savings notebook
